@@ -3,6 +3,8 @@
 Este repositório é voltado para o estudo do desenvolvimento da Covid-19 usando
 os dados disponibilizados pela Our World In Data.
 
+**Link para visualização do Dashboard** : https://plotly.com/~Leonardo.Cesar/14/dashboard/
+
 ## Bibliotecas Python  utilizadas
 
 * Pandas
